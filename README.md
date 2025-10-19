@@ -212,3 +212,148 @@ This Figma wireframe likely serves as part of a comprehensive design system for 
 - User testing preparation
 
 The choice between low and high fidelity would depend on the project stage and intended audience. Early versions might start as lo-fi wireframes to establish information architecture, then evolve into hi-fi wireframes with complete visual design for implementation.
+
+## Popular Wireframing Tools
+
+Choosing the right wireframing tool can significantly impact your design workflow, collaboration efficiency, and final output quality. Here's an overview of popular wireframing tools used by designers and UX professionals worldwide.
+
+### Figma (Recommended) ⭐
+
+**Overview:**
+Figma is a cloud-based design and prototyping tool that has become the industry standard for modern UI/UX design work. It combines powerful design capabilities with seamless collaboration features, making it ideal for both individual designers and large teams.
+
+**Key Features:**
+
+1. **Real-Time Collaboration:**
+   - Multiple designers can work on the same file simultaneously
+   - Live cursors show where team members are working
+   - Comments and feedback can be added directly to designs
+   - No version conflicts or file syncing issues
+
+2. **Browser-Based Platform:**
+   - Works on any operating system (Windows, Mac, Linux)
+   - No installation required (though desktop apps are available)
+   - Automatic cloud saving and version history
+   - Access designs from anywhere with an internet connection
+
+3. **Component System:**
+   - Create reusable components and design systems
+   - Auto-layout features for responsive design
+   - Variants for managing component states (hover, active, disabled)
+   - Nested components for complex UI patterns
+
+4. **Prototyping Capabilities:**
+   - Interactive prototypes with transitions and animations
+   - Smart animate for micro-interactions
+   - Conditional logic and advanced interactions
+   - Mobile app preview for testing on devices
+
+5. **Design Tools:**
+   - Vector editing tools with precision controls
+   - Constraints for responsive layouts
+   - Grid and layout systems
+   - Boolean operations for complex shapes
+   - Plugins and integrations for extended functionality
+
+6. **Developer Handoff:**
+   - CSS, iOS, and Android code generation
+   - Exportable assets in multiple formats
+   - Precise measurements and specifications
+   - Design tokens for design systems
+
+7. **FigJam Integration:**
+   - Built-in whiteboarding tool for brainstorming
+   - Collaborative ideation before wireframing
+   - Seamless transition from concepts to designs
+
+**Why Figma is Ideal for Wireframing:**
+
+- **Flexibility:** Suitable for both low-fidelity sketches and high-fidelity mockups
+- **Speed:** Intuitive interface allows rapid wireframe creation
+- **Collaboration:** Stakeholders can view and comment without needing accounts
+- **Free Tier:** Generous free plan for individual designers and small teams
+- **Learning Curve:** User-friendly with extensive tutorials and community resources
+- **Industry Adoption:** Widely used, making it valuable for portfolios and job skills
+- **Scalability:** Start with simple wireframes and evolve them into polished designs in the same tool
+- **Templates:** Access to thousands of community-created wireframe templates
+
+**Best For:**
+- Team-based projects requiring collaboration
+- Remote and distributed teams
+- Projects that need rapid iteration
+- Designers who want an all-in-one solution (wireframes to final design)
+- Creating and maintaining design systems
+
+**Pricing:**
+- **Free:** Unlimited personal files, 3 Figma and 3 FigJam files
+- **Professional:** $12/editor/month (billed annually)
+- **Organization:** $45/editor/month (billed annually)
+- **Enterprise:** Custom pricing with advanced security and support
+
+---
+
+### Other Popular Wireframing Tools
+
+#### 1. **Adobe XD**
+- **Strengths:** Integration with Adobe Creative Cloud, powerful prototyping, voice interactions
+- **Best For:** Designers already in the Adobe ecosystem
+- **Pricing:** Free starter plan, $9.99/month for individuals
+- **Platform:** Windows, Mac
+
+#### 2. **Sketch**
+- **Strengths:** Mac-native performance, extensive plugin ecosystem, symbol system
+- **Best For:** Mac users, established design teams
+- **Pricing:** $99/year per editor
+- **Platform:** Mac only (web viewer available)
+
+#### 3. **Balsamiq**
+- **Strengths:** Intentionally low-fidelity, hand-drawn aesthetic, rapid wireframing
+- **Best For:** Quick concept sketches, early-stage ideation
+- **Pricing:** $9/month (Cloud), $89 one-time (Desktop)
+- **Platform:** Web, Windows, Mac
+
+#### 4. **Axure RP**
+- **Strengths:** Advanced interactions, conditional logic, dynamic content
+- **Best For:** Complex enterprise applications, detailed documentation
+- **Pricing:** $25/month per user
+- **Platform:** Windows, Mac
+
+#### 5. **Miro**
+- **Strengths:** Infinite canvas, excellent for workshops, mapping user flows
+- **Best For:** Collaborative brainstorming, journey mapping
+- **Pricing:** Free plan available, paid plans from $8/month
+- **Platform:** Web, Windows, Mac, iOS, Android
+
+#### 6. **InVision**
+- **Strengths:** Prototyping, feedback tools, Freehand whiteboarding
+- **Best For:** Client presentations, design reviews
+- **Pricing:** Free plan available, paid plans from $4.95/month
+- **Platform:** Web-based
+
+#### 7. **Whimsical**
+- **Strengths:** Simple interface, fast wireframing, flowcharts
+- **Best For:** Solo designers, lightweight projects
+- **Pricing:** Free plan available, Pro at $10/month
+- **Platform:** Web-based
+
+#### 8. **Pen and Paper**
+- **Strengths:** No learning curve, extremely fast, no distractions
+- **Best For:** Initial concept sketches, offline brainstorming
+- **Pricing:** Free
+- **Platform:** Analog
+
+---
+
+### Choosing the Right Tool
+
+When selecting a wireframing tool, consider:
+
+1. **Project Requirements:** Fidelity level needed, complexity of interactions
+2. **Team Size:** Solo designer vs. large collaborative team
+3. **Budget:** Available resources and pricing structure
+4. **Platform:** Operating system compatibility
+5. **Learning Curve:** Time available for training
+6. **Integration Needs:** Compatibility with existing tools and workflows
+7. **Output:** Presentation needs and developer handoff requirements
+
+**Our Recommendation:** For most modern design workflows, **Figma** offers the best balance of power, collaboration, accessibility, and cost-effectiveness. Its ability to handle everything from initial wireframes to final designs, combined with its industry-leading collaboration features, makes it the top choice for designers at all skill levels.
